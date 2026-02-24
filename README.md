@@ -2,13 +2,16 @@
 
 A comprehensive, interactive healthcare analytics platform built with Tableau Public, analyzing synthetic patient data across 4 fully interactive dashboards covering encounters, medical conditions, patient demographics, and clinical procedures.
 
+
 🔗 Live Dashboard
 
 👉https://public.tableau.com/views/HealthViz360PatientAnalyticsDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
 📌 Project Overview
 
 Healthcare organizations deal with massive volumes of patient data that are difficult to interpret without proper visualization. This project bridges that gap by transforming raw synthetic medical data into an intuitive, multi-dashboard analytics platform that helps hospital administrators, policy planners, and analysts make faster, more informed decisions.
+
 
 🛠️ Tech Stack
 
@@ -22,9 +25,11 @@ Healthcare organizations deal with massive volumes of patient data that are diff
 
 5.Tableau Story - Multi-dashboard navigation
 
+
 📁 Dataset
 
 Source: Synthetic Medical Dataset — Kaggle
+
 
 ✨ Key Features
 
@@ -39,6 +44,7 @@ Source: Synthetic Medical Dataset — Kaggle
 ✅ Color-coded visualizations for quick pattern recognition
 
 ✅ Tableau Story for seamless dashboard navigation
+
 
 🚀 How to View
 
